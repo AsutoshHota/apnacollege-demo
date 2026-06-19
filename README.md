@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Asutosh Hota
+Author - Asutosh Hota (B.Tech Student)
